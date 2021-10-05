@@ -7,7 +7,7 @@ CAN WE MEET
 * Web Frontend: HTML5, CSS3, JavaScript, jQeury
 * Web Backend: Python/Flask
 * Database: MySQL
-* STT(Speech-to-Text): Google Web Speech API, Socket IO
+* STT(Speech-to-Text): Web Speech API, Socket IO
 * Meeting API: Twilio
 
 ## Virtural Environment
@@ -37,7 +37,7 @@ CAN WE MEET
 * Type: Tensorflow SavedModel
 * DataSet
   * 제공 데이터: 회의와 무관한 문장을 Happy, Sad, Angry, Neutral 4가지 감정으로 읽은 한국어 음성파일(600개)
-  * 자체 데이터: 자체 제작한 회의 스크립트에 맞춰 4가지의 감정으로 분류하여 직젖ㅂ 음성 데이터 생성(약 300개)
+  * 자체 데이터: 자체 제작한 회의 스크립트에 맞춰 4가지의 감정으로 분류하여 직접 음성 데이터 생성(약 300개)
 * Libraries
   * librosa
   * sklearn
